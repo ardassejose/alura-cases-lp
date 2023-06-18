@@ -6,9 +6,7 @@ import HomeScreen from '@/src/screens/HomeScreen';
 export default function Home() {
   return (
     <>
-      <h1>Home</h1>
       <HomeScreen></HomeScreen>
-      <Footer></Footer>
     </>
   );
 }
